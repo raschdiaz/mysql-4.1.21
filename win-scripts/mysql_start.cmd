@@ -4,4 +4,4 @@ echo Please dont close Window while MySQL is running
 echo MySQL is trying to start
 echo Please wait  ...
 echo MySQL is starting with ..\my.ini (console)
-..\bin\mysqld --defaults-file=..\my.ini --skip-grant-tables
+..\bin\mysqld --defaults-file=..\my.ini
